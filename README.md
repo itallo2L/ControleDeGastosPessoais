@@ -1,0 +1,1 @@
+## Projeto destinado a facilitar o controle pessoal financeiro das pessoas.
